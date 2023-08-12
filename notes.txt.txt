@@ -1,0 +1,2 @@
+Add typewriter effect
+Add ASCII art of Enterprise
